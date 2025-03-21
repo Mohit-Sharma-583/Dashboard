@@ -1,8 +1,8 @@
 # Dashboard Application
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Made with [Next.js](https://nextjs.org) and [Shadcn](https://shadcn.dev).
 
-![Dashboard Screenshot](   /C:/Users/ASUS/dashboard_app/images/dashboard.png) <!-- Replace with the actual path to your image -->
+![Dashboard Screenshot](./dashboard.png) <!-- Ensure this path is correct -->
 
 ## Getting Started
 
