@@ -2,7 +2,7 @@
 
 Made with [Next.js](https://nextjs.org) and [Shadcn](https://shadcn.dev).
 
-![Dashboard Screenshot](./Dashboard.png) <!-- Ensure this path is correct -->
+![Dashboard Screenshot]("C:\Users\ASUS\dashboard_app\Dashboard.png") <!-- Ensure this path is correct -->
 
 ## Getting Started
 
