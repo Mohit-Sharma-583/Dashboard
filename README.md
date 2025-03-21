@@ -2,7 +2,7 @@
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-![Dashboard Screenshot](path/to/your/image.png) <!-- Replace with the actual path to your image -->
+![Dashboard Screenshot](   /C:/Users/ASUS/dashboard_app/images/dashboard.png) <!-- Replace with the actual path to your image -->
 
 ## Getting Started
 
